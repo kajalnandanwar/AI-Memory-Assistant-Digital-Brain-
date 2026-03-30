@@ -111,11 +111,21 @@ The system performs better than traditional keyword-based systems by providing c
 
 ## Future Scope
 
-* Add voice-based interaction
-* Integration with mobile applications
-* Multi-user support
-* Image and video understanding
-* Cloud-based synchronization
+---
+* Context-based memory
+* Smart semantic search
+* AI chat with memory
+* Auto note summarization
+* Memory timeline (past activity)
+* Memory linking (connect topics)
+* Personalized suggestions
+* Multimodal input (text, voice, image)
+* Secure data storage
+* “Second brain” functionality
+* Predictive memory suggestions
+* Smart reminders
+
+* AI system that remembers, understands, and recalls information intelligently.
 
 ---
 
